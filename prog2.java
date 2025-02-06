@@ -29,11 +29,11 @@ public class prog2
 {
 	public static void main(String[] args) {
 		Juet student1= new Juet();
-		student1.setName("Anant Gupta");
+		student1.setName("Anurag");
 		student1.setAge(20);
 		
 		Juet student2= new Juet();
-		student2.setName("Jatin Sharma");
+		student2.setName("manan");
 		student2.setAge(22);
 	
 	    System.out.println(student1.getName()+ " " +student1.getAge());
